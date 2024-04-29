@@ -1,0 +1,28 @@
+header {
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(117, 219, 48);
+    ul{
+        display:flex;
+        flex-direction: row;
+        gap: 20px;
+
+    }
+}
+main{
+    background-color: rgb(192, 233, 46);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: auto;
+    text-align: center;
+    
+}
+.proyectos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.comentarios{
+    text-align: justify;
+}
