@@ -14,7 +14,11 @@ main{
     font-family: 'Times New Roman', Times, serif;
     font-size: auto;
     text-align: center;
-    
+    h2,h3{
+        border: 2px;
+        border-style: solid;
+        border-color: rgb(219, 168, 0);
+    }
 }
 .proyectos{
     display: flex;
